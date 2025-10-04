@@ -1,7 +1,6 @@
 👋 Hi, I’m Oluwabukola Amoo
-- 🌱 I’m currently learning human centered design 
 - 💞️ I’m looking to collaborate on real life projects and building sustainable tech communities
-- 📫 How to reach via email @ harbike88@gmail.com
+- 📫 How to reach via email: harbike88@gmail.com
 - ⚡ Fun fact: I love seeing crime documentaries 
 
 <!---
